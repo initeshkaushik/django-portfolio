@@ -1,2 +1,2 @@
 # djangoportfolio
-first django-project online portfolio using django 3.0
+A Simple online portfolio using Python and Django.
